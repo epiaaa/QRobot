@@ -1,0 +1,7 @@
+openai
+cn2an
+qq-botpy
+requests
+PyYAML
+pydantic
+pilk
